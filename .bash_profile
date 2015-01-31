@@ -1,6 +1,7 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
 
+
 # use to extend path
 if [ -f ~/.path ]; then
    . ~/.path;
